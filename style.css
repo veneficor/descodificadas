@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.menu {
+    list-style: none;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px;
+}
